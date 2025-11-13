@@ -1,8 +1,6 @@
-## :brain:Multi-threading and IPC with Qt5
+## 🧠 Multi-threading and IPC with Qt5
 
-Hi everyone :angel:
+Online olarak katılım sağladığım "** Qt 5 ile Çoklu İş Parçacığı Kullanımı ve IPC/ Daniel Gakwaya" ** kursunda önemli bulduğum notları paylaştım. 
 
-In this repository, I added some important points in the course **_Multi-threading and IPC with Qt 5/ Daniel Gakwaya"_** that I took online :eyes:
-
-I hope it benefits your studies	:butterfly:
+İyi çalışmalar 📗
  
