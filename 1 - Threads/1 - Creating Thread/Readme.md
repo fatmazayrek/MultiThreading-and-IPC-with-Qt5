@@ -2,7 +2,7 @@ Hi everyone :alien:
 
 In this example, I showed you using of QThread::create() with functions :ghost:
 
-I did a simple Widget application which contains only one button. When you click this button, thread is created and starts counting:clock1230:
+I did a simple Widget application which contains only one button. When you click this button, thread is created and starts counting :clock1230:
 
 ![image](https://user-images.githubusercontent.com/91613858/218654487-9500b7e7-4c69-4fbe-9115-fca7ae2bb95d.png)
 
